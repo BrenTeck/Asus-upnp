@@ -1,0 +1,5 @@
+#asus upnp fix
+asuswrt:
+  host: 192.168.xx.xx # your router IP
+  username: adminUserName
+#endAsus
