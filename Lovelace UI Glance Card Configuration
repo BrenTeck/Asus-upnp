@@ -7,5 +7,5 @@ entities:
   - entity: sensor.rt_ax88u_56e0_b_received
   - entity: sensor.rt_ax88u_56e0_packets_sent
   - entity: sensor.rt_ax88u_56e0_packets_received
-title: Media Cupboard
+title: Asus AX88U
 type: entities
